@@ -5,6 +5,7 @@
 * [ручное тестирование.](https://github.com/Efimov91/Efimov91/blob/main/Sertificate-Manual%20Tests.jpg)
 * [Java для тестировщиков.](https://github.com/Efimov91/Efimov91/blob/main/Sertificate-Java.jpg)
 * [Git-система контроля версий.](https://github.com/Efimov91/Efimov91/blob/main/Sertificate-Git.jpg)
+*  [Курсовой проект по программе ручное тестирование.](https://docs.google.com/spreadsheets/d/1OY7H1NJMJzGyNzb3CdVUjJWW8OMuZVlVQqD91Eif5Rk/edit#gid=0)
 
 To be continued как говорится, ведь я не стою на месте и продолжаю совершенствовать свои полученные навыки и приобретаю новые.
 
